@@ -1,6 +1,6 @@
 #Git Practice
 
-This is a test beware....
+This is a test beware.... of Rabbits
 
 <<<<<<< HEAD
 For testing only
